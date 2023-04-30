@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [thewalaokasikan@gmail.com](mailto:thewalaokasikan@gmail.com)
+* ✉️  You can contact me at [thewalaokasikan@gmail.com](mailto:skyriyvrzo@gmail.com)
 * 🧠  I'm learning java language
 
 <a href="https://www.github.com/skyriyvrzo" target="_blank" rel="noreferrer"><img
