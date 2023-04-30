@@ -5,13 +5,11 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [thewalaokasikan@gmail.com](mailto:skyriyvrzo@gmail.com)
+* ✉️  You can contact me at [thewalaokasikan@gmail.com](mailto:thewalaokasikan@gmail.com)
 * 🧠  I'm learning java language
 
 <a href="https://www.github.com/skyriyvrzo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/skyriyvrzo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/skyriyvrzo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/skyriyvrzo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/skyriyvrzo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
