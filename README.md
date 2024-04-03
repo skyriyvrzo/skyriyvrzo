@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [thewalaokasikan@gmail.com](mailto:skyriyvrzo@gmail.com)
+* ✉️  You can contact me at [skyriyvrzo@gmail.com](mailto:skyriyvrzo@gmail.com)
 
 <a href="https://www.github.com/skyriyvrzo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/skyriyvrzo?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
