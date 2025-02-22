@@ -20,7 +20,7 @@ jobs:
           else
             echo "✅ WAKATIME_API_KEY is SET!"
             response=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Basic $(echo -n "${{ secrets.WAKATIME_API_KEY }}" | base64)" "https://wakatime.com/api/v1/users/current")
-            echo ${{secrets.WAKATIME_API_KEY}}
+            printenv
           fi
         # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
